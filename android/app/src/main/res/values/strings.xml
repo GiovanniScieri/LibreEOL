@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EOL - Esami on-line</string>
+
+    <string name="hello_world">Benvenuto in EOL!</string>
+    <string name="action_settings">Logout</string>
+    <string name="consegna">Consegna</string>
+    <string-array name="group_array">
+        <item>ats.at</item>
+        <item>ats.fi</item>
+        <item>ats.fr</item>
+        <item>ats.gr</item>
+        <item>ats.hu</item>
+        <item>ats.bari.it</item>
+        <item>ats.napoli.it</item>
+        <item>ats.milano.it</item>
+        <item>ats.genova.it</item>
+        <item>ats.perugia.it</item>
+        <item>ats.nl</item>
+        <item>ats.pl</item>
+        <item>ats.si</item>
+        <item>ats.sp</item>
+    </string-array>
+</resources>
